@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "mystream",
+      "description": "this is stream",
+      "id": 1
+    },
+    {
+      "title": "stream 2",
+      "description": "ada id user",
+      "userId": "117614199402475965321",
+      "id": 2
+    },
+    {
+      "title": "stream 4",
+      "description": "testing refactor dan reuse edit",
+      "id": 4
+    }
+  ]
+}
